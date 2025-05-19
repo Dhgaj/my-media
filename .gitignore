@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# 临时或缓存文件
+*.tmp
+*.log
+*.bak
+
+# 不上传大容量源码/媒体编辑工程文件
+*.psd
+*.blend
+*.aep
